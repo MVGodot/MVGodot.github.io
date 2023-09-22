@@ -1,2 +1,1 @@
-# MVGodot.github.io
-Godot game testing for the general public. May contain "violent" games. (hey, i'm just testing my coding skills)
+Please don't ban this Hedges. I am testing Godot (a game engine). Yeah, sure some games may contain "guns" or whatever, but this is just me letting my imagination run free.
